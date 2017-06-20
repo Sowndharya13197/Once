@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Unique {
+public class Once {
     public static void main(String args[])
     {
         int n,i,j,count=0;
